@@ -22,3 +22,8 @@ A principal funcionalidade do sistema é atribuir um livro a um estudante, e um 
  7. Sempre que um usuário for fazer uma conta, seu cpf será, primeiramente, verificado na base de dados.
  8. Será o administrador que irá adicionar, excluir ou atualizar um livro no sistema.
  9. O sistema irá mostrar ao usuário quando ele estiver advertido e bloqueado.
+
+### Diagrama UML:
+<p align="left"> 
+ <img width="950" src="https://user-images.githubusercontent.com/85131757/215233747-568b7b9f-a110-48ba-ae38-3e5db1166846.jpeg"
+</p>
